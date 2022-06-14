@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Mark 👋 
 
-[![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=macox&show_icons=true&include_all_commits=true)](https://github.com/macox)
-
+[![Marks's GitHub stats](https://github-readme-stats.vercel.app/api?username=macox&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/macox/github-readme-stats)
 
 ----------------
 [![GitHub followers](https://img.shields.io/github/followers/macox?label=Follow&maxAge=3600&style=flat-square&logo=Github&labelColor=000000&color=000000)](https://github.com/macox?tab=followers)
